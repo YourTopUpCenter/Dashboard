@@ -149,9 +149,3 @@ function updateSlidePositionA() {
 }
 
 setInterval(showNextSlideA, 3000);
-    </script>
-
-
-
-</body>
-																													  </html>
